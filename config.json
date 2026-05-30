@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorsalidate",
+        "uuid": 11440218,
+        "checksum": "ujo5ic"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
